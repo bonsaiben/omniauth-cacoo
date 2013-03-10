@@ -1,6 +1,6 @@
 # OmniAuth Cacoo
 
-[Build Status](https://secure.travis-ci.org/bonsaiben/omniauth-cacoo.png)](http://travis-ci.org/bonsaiben/omniauth-cacoo)
+[<img src="https://secure.travis-ci.org/bonsaiben/omniauth-cacoo.png">](http://travis-ci.org/bonsaiben/omniauth-cacoo)
 
 `OmniAuth::Strategies::Cacoo` is an OmniAuth strategy for authenticating to
 cacoo.com with OAuth1.
